@@ -1,14 +1,8 @@
 # 📊 College Enrollment & Income Analysis
 
-## 🔍 Overview
-
-This project analyzes how **parent income impacts college enrollment rates**, with a deeper look into how this effect varies across different types of institutions. The findings highlight significant disparities in access to higher education.
-
----
-
 ## 📈 Finding 1: Income is a Powerful Driver of Enrollment
 
-### 📌 Key Insight
+![college-enrollment-income-analysis](attend_vs_income_overall.png)
 
 College attendance increases steadily as **parent income percentile rises**.
 
@@ -32,7 +26,7 @@ College attendance increases steadily as **parent income percentile rises**.
 
 ## 🏫 Finding 2: College Type Amplifies the Income Gap
 
-### 📌 Key Insight
+![college-enrollment-income-analysis](attend_vs_income_by_tier.png)
 
 The impact of income becomes **more pronounced at elite institutions**.
 
@@ -54,15 +48,7 @@ Financial advantage is **most concentrated at the top-tier colleges**, reinforci
 
 ---
 
-## 📐 Quantitative Impact: The Enrollment Gap
 
-### 📊 Regression Analysis
-
-A regression model confirms that **income is a statistically significant predictor** of college attendance.
-
-* **β₁ (beta coefficient)**:
-  For every increase in income percentile, attendance probability increases by:
-  **[Insert your β₁ value here]**
 
 ### 📉 Key Numbers
 
